@@ -1,0 +1,5 @@
+//Lunch chosen nomber of dice 6 and calculate numbre of peer result (Knight RPG system)
+[[ {[[{?{Number of Dices}, 0}kh1]]d6cs2cs4cs6cf1cf3cf5%2}=0]]
+
+//Lunch chosen nomber of dice 6, calculate numbre of peer result and add chosen number of Overdrives/Otomatical sucess (Knight RPG system)
+[[ {[[{?{Number of Dice}, 0}kh1]]d6cs2cs4cs6cf1cf3cf5%2}=0]] + [[{?{Number of OD}}]] 

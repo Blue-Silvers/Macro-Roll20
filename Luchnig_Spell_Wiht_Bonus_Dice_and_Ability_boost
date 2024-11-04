@@ -1,0 +1,7 @@
+// Lunch spell with this formul 2d6+[Ability]+ (1d6+1) for numbre of boost bonus
+
+Test :
+[[ {[[{?{Number of Dice}, 0}kh1]]d6cs2cs4cs6cf1cf3cf5%2}=0]] + [[{?{Number of OD}}]] 
+
+Damage :
+[[ 2d6+[[{?{Value of Ability}, 0}]] + [[ [[{?{Bonus}, 0}]]d6]] + [[{?{Bonus}, 0}]] =0]]
